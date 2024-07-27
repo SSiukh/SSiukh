@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I`m Oleksandr 👋
 
+ - 🔭 I am a university student studying programming, with a foundation in HTML, JavaScript, and CSS. I have completed several projects using these technologies. Currently, i am learning React and taking courses from studying platform to further enhance my web development skills.
+
+ - 👯 I am always open to new opportunities and collaborations
+
+📫Reach me out:
+
+![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23f3af5d?style=flat&logo=instagram&logoColor=white&color=c69242&link=https%3A%2F%2Fwww.instagram.com%2Fsasha_siukh04%3Figsh%3DYWdidjFydnJjYTcw%26utm_source%3Dqr)
 <!--
 **SSiukh/SSiukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
