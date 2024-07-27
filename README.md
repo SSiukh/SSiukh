@@ -13,7 +13,7 @@
 🌱My projects:
 
  [![Static Badge](https://img.shields.io/badge/Main%20project-%234030a9?style=for-the-badge&logoColor=white&color=44a930)](https://ssiukh.github.io/my-main-project/)
- ![Static Badge](https://img.shields.io/badge/Portfolio-%234030a9?style=for-the-badge&logoColor=white&color=8830a9)
+ [![Static Badge](https://img.shields.io/badge/Portfolio-%234030a9?style=for-the-badge&logoColor=white&color=8830a9)](https://ssiukh.github.io/Portfolio/)
 
  <br />
 
