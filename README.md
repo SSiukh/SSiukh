@@ -6,7 +6,19 @@
 
 📫Reach me out:
 
-![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23f3af5d?style=flat&logo=instagram&logoColor=white&color=c69242&link=https%3A%2F%2Fwww.instagram.com%2Fsasha_siukh04%3Figsh%3DYWdidjFydnJjYTcw%26utm_source%3Dqr)
+[![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23f3af5d?style=flat&logo=instagram&logoColor=white&color=c69242)](https://www.instagram.com/sasha_siukh04?igsh=YWdidjFydnJjYTcw&utm_source=qr)
+[![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23cf5749?style=flat&logo=gmail&logoColor=white&color=c53c3c)](mailto:siukhsasha@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23cf5749?style=flat&logo=linkedin&logoColor=white&color=4030a9)](https://www.linkedin.com/in/oleksandr-siukh-31021b313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+🌱My projects:
+
+ [![Static Badge](https://img.shields.io/badge/Main%20project-%234030a9?style=for-the-badge&logoColor=white&color=44a930)](https://ssiukh.github.io/my-main-project/)
+ ![Static Badge](https://img.shields.io/badge/Portfolio-%234030a9?style=for-the-badge&logoColor=white&color=8830a9)
+
+ <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSiukh&layout=compact)
+
 <!--
 **SSiukh/SSiukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
