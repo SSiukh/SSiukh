@@ -10,10 +10,6 @@
 [![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23cf5749?style=flat&logo=gmail&logoColor=white&color=c53c3c)](mailto:siukhsasha@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Oleksandr%20Siukh-%23cf5749?style=flat&logo=linkedin&logoColor=white&color=4030a9)](https://www.linkedin.com/in/oleksandr-siukh-31021b313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-🌱My projects:
-
- [![Static Badge](https://img.shields.io/badge/Main%20project-%234030a9?style=for-the-badge&logoColor=white&color=44a930)](https://ssiukh.github.io/my-main-project/)
- [![Static Badge](https://img.shields.io/badge/Portfolio-%234030a9?style=for-the-badge&logoColor=white&color=8830a9)](https://ssiukh.github.io/portfolio/)
 
  <br />
 
